@@ -1,0 +1,4 @@
+/* The following css code needs to make the height of the container 100vh so we can center vertically the loader to the page*/
+#screen > .row {
+  min-height: 100vh;
+}

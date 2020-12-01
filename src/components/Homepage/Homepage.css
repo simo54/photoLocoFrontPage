@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,745&display=swap");
+
+.head {
+  height: 100px;
+  background-color: #4c4c4c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.head h1 {
+  font-family: "Exo", sans-serif;
+  color: #f0a500;
+  font-size: 50px;
+  text-shadow: 2px 2px whitesmoke;
+}
+
+.head img {
+  width: 70px;
+  height: 70px;
+  margin-left: 20px;
+}
+
+.headTextBreakPoint {
+  font-size: 50px;
+}
+
+html {
+  overflow-y: auto;
+}
+
+.textBreakPoint {
+  font-size: 20px;
+}
+
+.titleBox {
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  color: #f6f7d7;
+  text-shadow: 4px 2px 2px #2d4059;
+}
