@@ -6,11 +6,12 @@ You can find more info on how to use this package in the aboved link, but if you
 ```
 git clone https://github.com/simo54/photoLocoFrontPage.git
 ```
-and then you may needs to install the required modules with:
+When cloned, you may needs to install the required modules with:
 ```
 npm install 
 ```
-and once done you can launch it with
+Once done you can launch it with:
 ```
 npm start 
 ```
+
